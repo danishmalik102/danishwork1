@@ -1,1 +1,2 @@
 This line creates feature 2
+This line also belongs to feature2
